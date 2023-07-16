@@ -2,7 +2,7 @@
 sets
 '''
 
-numbers=[1,2,4,5,6,81,2,3]
+numbers=[1,2,4,5,6,81,25,3]
 print(numbers)
 set_numbers=set(numbers)
 
